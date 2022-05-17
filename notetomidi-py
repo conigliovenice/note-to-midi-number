@@ -1,0 +1,336 @@
+#!/usr/bin/python3
+
+Gs9 = 128
+Ab9 = 128
+G9 = 127
+Fs9 = 126
+Gb9 = 126
+F9 = 125
+E9 = 124
+Ds9 = 124
+Eb9 = 123
+D9 = 122
+Cs9 = 121
+Db9 = 121
+C9 = 120
+B8 = 119
+As8 = 118
+Bb8 = 118
+A8 = 117
+Gs8 = 116
+Ab8 = 116
+G8 = 115
+Fs8 = 114
+Gb8 = 114
+F8 = 113
+E8 = 112
+Ds8 = 111
+Eb8 = 110
+D8 = 109
+Cs8 = 108
+Db8 = 108
+C8 = 107
+B7 = 106
+As7 = 105
+Bb7 = 105
+A7 = 104
+Gs7 = 103
+Ab7 = 103
+G7 = 102
+Fs7 = 101
+Gb7 = 100
+F7 = 99
+E7 = 98
+Ds7 = 97
+Eb7 = 97
+D7 = 96
+Cs7 = 95
+Db7 = 95
+C7 = 94
+B6 = 93
+As6 = 92
+Bb6 = 92
+A6 = 91
+Gs6 = 90
+Ab6 = 90
+G6  = 89
+Fs6 = 88
+Gb6 = 88
+F6 = 87
+E6 = 86
+Ds6 = 85
+Eb6 = 85
+D6 = 84
+Cs6 = 83
+Db6 = 83
+C6 = 82
+B5 = 81
+As5 = 80
+Bb5 = 80
+A5 = 79
+Gs5 = 78
+Ab5 = 78
+G5 = 77
+Fs5 = 76
+Gb5 = 76
+F5 = 75
+E5 = 74
+Ds5 = 73
+Eb5 = 73
+D5 = 72
+Cs5 = 71
+Db5 = 71
+C5 = 70
+B4 = 69
+As4 = 68
+Bb4 = 68
+A4 = 67
+Gs4 = 66
+Ab4 = 66
+G4 = 65
+Fs4 = 64
+Gb4 = 64
+F4 = 63
+E4 = 62
+Ds4 = 61
+Eb4 = 61
+D4 = 60
+Cs4 = 59
+Db4 = 59
+C4 = 58
+B3 = 57
+As3 = 56
+Bb3 = 56
+A3 = 55
+Gs3 = 54
+Ab3 = 54
+G3 = 53
+Fs3 = 52
+Gb3 = 52
+F3 = 51
+E3 = 50
+Ds3 = 49
+Eb3 = 49
+D3 = 48
+Cs3 = 47
+Db3 = 47
+C3 = 46
+B2 = 45
+As2 = 44
+Bb2 = 44
+A2 = 43
+Gs2 = 42
+Ab2 = 42
+G2 = 41
+Fs2 = 40
+Gb2 = 40
+F2 = 39
+E2 = 38
+Ds2 = 37
+Eb2 = 37
+D2 = 36
+Cs2 = 35
+Db2 = 35
+C2 = 34
+B1 = 33
+As1 = 32
+Bb1 = 32
+A1 = 31
+Gs1 = 30
+Ab1 = 30
+G1 = 29
+Fs1 = 28
+Gb1 = 28
+F1 = 27
+E1 = 26
+Ds1 = 25
+Eb1 = 25
+D1 = 24
+Cs1 = 23
+Db1 = 23
+C1 = 22
+B0 = 21
+As0 = 20
+Bb0 = 20
+A0 = 19
+Ab9 = 128
+while True:
+    note = input ("insert note  ")
+    if (note == "Ab9"):
+        print (Ab9)
+    if (note == "G9"):
+        print (G9)
+    if (note == "Gb9"):
+        print (Gb9)
+    if (note == "Fs9"):
+        print (Fs9)
+    if (note == "F9"):
+        print (F9)
+    if (note == "E9"):
+        print (E9)
+    if (note == "Db9"):
+        print (Db9)
+    if (note == "Cs9"):
+        print (Cs9)
+    if (note == "C9"):
+        print (C9)
+    if (note == "B8"):
+        print (B8)
+    if (note == "A8"):
+        print (A8)
+    if (note == "Ab8"):
+        print (Ab8)
+    if (note == "G8"):
+        print (G8)
+    if (note == "Gb8"):
+        print (Gb8)
+    if (note == "Fs8"):
+        print (Fs8)
+    if (note == "F8"):
+        print (F8)
+    if (note == "E8"):
+        print (E8)
+    if (note == "Db8"):
+        print (Db8)
+    if (note == "Cs8"):
+        print (Cs8)
+    if (note == "C8"):
+        print (C8)
+    if (note == "B7"):
+        print (B7)
+    if (note == "A7"):
+        print (A7)
+    if (note == "Ab7"):
+        print (Ab7)
+    if (note == "G7"):
+        print (G7)
+    if (note == "Gb7"):
+        print (Gb7)
+    if (note == "Fs7"):
+        print (Fs7)
+    if (note == "F7"):
+        print (F7)
+    if (note == "E7"):
+        print (E7)
+    if (note == "Db7"):
+        print (Db7)
+    if (note == "Cs7"):
+        print (Cs7)
+    if (note == "C7"):
+        print (C7)
+    if (note == "B6"):
+        print (B6)
+    if (note == "A6"):
+        print (A6)
+    if (note == "Ab6"):
+        print (Ab6)
+    if (note == "G6"):
+        print (G6)
+    if (note == "Gb6"):
+        print (Gb6)
+    if (note == "Fs6"):
+        print (Fs6)
+    if (note == "F6"):
+        print (F6)
+    if (note == "E6"):
+        print (E6)
+    if (note == "Db6"):
+        print (Db6)
+    if (note == "Cs6"):
+        print (Cs6)
+    if (note == "C6"):
+        print (C6)
+    if (note == "B5"):
+        print (B5)
+    if (note == "A5"):
+        print (A5)
+    if (note == "Ab4"):
+        print (Ab4)
+    if (note == "G4"):
+        print (G4)
+    if (note == "Gb4"):
+        print (Gb4)
+    if (note == "Fs4"):
+        print (Fs4)
+    if (note == "F4"):
+        print (F4)
+    if (note == "E4"):
+        print (E4)
+    if (note == "Db4"):
+        print (Db4)
+    if (note == "Cs4"):
+        print (Cs4)
+    if (note == "C4"):
+        print (C4)
+    if (note == "B3"):
+        print (B3)
+    if (note == "A3"):
+        print (A3)
+    if (note == "Ab3"):
+        print (Ab3)
+    if (note == "G3"):
+        print (G3)
+    if (note == "Gb3"):
+        print (Gb3)
+    if (note == "Fs3"):
+        print (Fs3)
+    if (note == "F3"):
+        print (F3)
+    if (note == "E3"):
+        print (E3)
+    if (note == "Db3"):
+        print (Db3)
+    if (note == "Cs3"):
+        print (Cs3)
+    if (note == "C3"):
+        print (C3)
+    if (note == "B2"):
+        print (B2)
+    if (note == "A2"):
+        print (A2)
+    if (note == "Ab2"):
+        print (Ab2)
+    if (note == "G2"):
+        print (G2)
+    if (note == "Gb2"):
+        print (Gb2)
+    if (note == "Fs2"):
+        print (Fs2)
+    if (note == "F2"):
+        print (F2)
+    if (note == "E2"):
+        print (E2)
+    if (note == "Db2"):
+        print (Db2)
+    if (note == "Cs2"):
+        print (Cs2)
+    if (note == "C2"):
+        print (C2)
+    if (note == "B1"):
+        print (B1)
+    if (note == "A1"):
+        print (A1)
+    if (note == "Ab1"):
+        print (Ab1)
+    if (note == "G1"):
+        print (G1)
+    if (note == "Gb1"):
+        print (Gb1)
+    if (note == "Fs1"):
+        print (Fs1)
+    if (note == "F1"):
+        print (F1)
+    if (note == "E1"):
+        print (E1)
+    if (note == "Db1"):
+        print (Db1)
+    if (note == "Cs1"):
+        print (Cs1)
+    if (note == "C1"):
+        print (C1)
+    if (note == "B0"):
+        print (B0)
+    if (note == "As0"):
+        print (As0)
+    if (note == "Bb0"):
+        print (Bb0)
