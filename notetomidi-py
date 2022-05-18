@@ -231,7 +231,7 @@ while True:
         print (A7)
     if (note == "Ab7"):
         print (Ab7)
-     if (note == "G7"):
+    if (note == "G7"):
         print (G7)
     if (note == "Ab7"):
         print (Ab7)
