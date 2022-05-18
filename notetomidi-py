@@ -153,11 +153,14 @@ B0 = 21
 As0 = 20
 Bb0 = 20
 A0 = 19
-Ab9 = 128
+
 while True:
+
     note = input ("insert note  ")
     if (note == "Ab9"):
         print (Ab9)
+    if (note == "Gs9"):
+        print (Gs9)
     if (note == "G9"):
         print (G9)
     if (note == "Gb9"):
@@ -168,6 +171,12 @@ while True:
         print (F9)
     if (note == "E9"):
         print (E9)
+    if (note == "Ds9"):
+        print (Ds9)
+    if (note == "Eb9"):
+        print (Eb9)
+    if (note == "D9"):
+        print (D9)
     if (note == "Db9"):
         print (Db9)
     if (note == "Cs9"):
@@ -176,10 +185,20 @@ while True:
         print (C9)
     if (note == "B8"):
         print (B8)
+    if (note == "Bb8"):
+        print (Bb8)
+    if (note == "As8"):
+        print (As8)
     if (note == "A8"):
         print (A8)
     if (note == "Ab8"):
         print (Ab8)
+    if (note == "G8"):
+        print (G8)
+    if (note == "Ab8"):
+        print (Ab8)
+    if (note == "Gs8"):
+        print (Gs8)
     if (note == "G8"):
         print (G8)
     if (note == "Gb8"):
@@ -190,6 +209,12 @@ while True:
         print (F8)
     if (note == "E8"):
         print (E8)
+    if (note == "Ds8"):
+        print (Ds8)
+    if (note == "Eb8"):
+        print (Eb8)
+    if (note == "D8"):
+        print (D8)
     if (note == "Db8"):
         print (Db8)
     if (note == "Cs8"):
@@ -198,10 +223,20 @@ while True:
         print (C8)
     if (note == "B7"):
         print (B7)
+    if (note == "Bb7"):
+        print (Bb7)
+    if (note == "As7"):
+        print (As7)
     if (note == "A7"):
         print (A7)
     if (note == "Ab7"):
         print (Ab7)
+     if (note == "G7"):
+        print (G7)
+    if (note == "Ab7"):
+        print (Ab7)
+    if (note == "Gs7"):
+        print (Gs7)
     if (note == "G7"):
         print (G7)
     if (note == "Gb7"):
@@ -212,6 +247,12 @@ while True:
         print (F7)
     if (note == "E7"):
         print (E7)
+    if (note == "Ds7"):
+        print (Ds7)
+    if (note == "Eb7"):
+        print (Eb7)
+    if (note == "D7"):
+        print (D7)
     if (note == "Db7"):
         print (Db7)
     if (note == "Cs7"):
@@ -220,10 +261,20 @@ while True:
         print (C7)
     if (note == "B6"):
         print (B6)
+    if (note == "Bb6"):
+        print (Bb6)
+    if (note == "As6"):
+        print (As6)
     if (note == "A6"):
         print (A6)
     if (note == "Ab6"):
         print (Ab6)
+    if (note == "G6"):
+        print (G6)
+    if (note == "Ab6"):
+        print (Ab6)
+    if (note == "Gs6"):
+        print (Gs6)
     if (note == "G6"):
         print (G6)
     if (note == "Gb6"):
@@ -234,6 +285,12 @@ while True:
         print (F6)
     if (note == "E6"):
         print (E6)
+    if (note == "Ds6"):
+        print (Ds6)
+    if (note == "Eb6"):
+        print (Eb6)
+    if (note == "D6"):
+        print (D6)
     if (note == "Db6"):
         print (Db6)
     if (note == "Cs6"):
@@ -242,10 +299,50 @@ while True:
         print (C6)
     if (note == "B5"):
         print (B5)
+    if (note == "Bb5"):
+        print (Bb5)
+    if (note == "As5"):
+        print (As5)
     if (note == "A5"):
         print (A5)
+    if (note == "Ab5"):
+        print (Ab5)
+    if (note == "Gs5"):
+        print (Gs5)
+    if (note == "G5"):
+        print (G5)
+    if (note == "Gb5"):
+        print (Gb5)
+    if (note == "Fs5"):
+        print (Fs5)
+    if (note == "F5"):
+        print (F5)
+    if (note == "E5"):
+        print (E5)
+    if (note == "Ds5"):
+        print (Ds5)
+    if (note == "Eb5"):
+        print (Eb5)
+    if (note == "D5"):
+        print (D5)
+    if (note == "Db5"):
+        print (Db5)
+    if (note == "Cs5"):
+        print (Cs5)
+    if (note == "C5"):
+        print (C5)
+    if (note == "B4"):
+        print (B4)
+    if (note == "Bb4"):
+        print (Bb4)
+    if (note == "As4"):
+        print (As4)
+    if (note == "A4"):
+        print (A4)
     if (note == "Ab4"):
         print (Ab4)
+    if (note == "Gs4"):
+        print (Gs4)
     if (note == "G4"):
         print (G4)
     if (note == "Gb4"):
@@ -256,6 +353,12 @@ while True:
         print (F4)
     if (note == "E4"):
         print (E4)
+    if (note == "Ds4"):
+        print (Ds4)
+    if (note == "Eb4"):
+        print (Eb4)
+    if (note == "D4"):
+        print (D4)
     if (note == "Db4"):
         print (Db4)
     if (note == "Cs4"):
@@ -264,10 +367,16 @@ while True:
         print (C4)
     if (note == "B3"):
         print (B3)
+    if (note == "Bb3"):
+        print (Bb3)
+    if (note == "As3"):
+        print (As3)
     if (note == "A3"):
         print (A3)
     if (note == "Ab3"):
         print (Ab3)
+    if (note == "Gs3"):
+        print (Gs3)
     if (note == "G3"):
         print (G3)
     if (note == "Gb3"):
@@ -278,6 +387,12 @@ while True:
         print (F3)
     if (note == "E3"):
         print (E3)
+    if (note == "Ds3"):
+        print (Ds3)
+    if (note == "Eb3"):
+        print (Eb3)
+    if (note == "D3"):
+        print (D3)
     if (note == "Db3"):
         print (Db3)
     if (note == "Cs3"):
@@ -286,10 +401,16 @@ while True:
         print (C3)
     if (note == "B2"):
         print (B2)
+    if (note == "Bb2"):
+        print (Bb2)
+    if (note == "As2"):
+        print (As2)
     if (note == "A2"):
         print (A2)
     if (note == "Ab2"):
         print (Ab2)
+    if (note == "Gs2"):
+        print (Gs2)
     if (note == "G2"):
         print (G2)
     if (note == "Gb2"):
@@ -300,6 +421,12 @@ while True:
         print (F2)
     if (note == "E2"):
         print (E2)
+    if (note == "Ds2"):
+        print (Ds2)
+    if (note == "Eb2"):
+        print (Eb2)
+    if (note == "D2"):
+        print (D2)
     if (note == "Db2"):
         print (Db2)
     if (note == "Cs2"):
@@ -308,10 +435,16 @@ while True:
         print (C2)
     if (note == "B1"):
         print (B1)
+    if (note == "Bb1"):
+        print (Bb1)
+    if (note == "As1"):
+        print (As1)
     if (note == "A1"):
         print (A1)
     if (note == "Ab1"):
         print (Ab1)
+    if (note == "Gs1"):
+        print (Gs1)
     if (note == "G1"):
         print (G1)
     if (note == "Gb1"):
@@ -322,6 +455,12 @@ while True:
         print (F1)
     if (note == "E1"):
         print (E1)
+    if (note == "Ds1"):
+        print (Ds1)
+    if (note == "Eb1"):
+        print (Eb1)
+    if (note == "D1"):
+        print (D1)
     if (note == "Db1"):
         print (Db1)
     if (note == "Cs1"):
@@ -330,7 +469,9 @@ while True:
         print (C1)
     if (note == "B0"):
         print (B0)
-    if (note == "As0"):
-        print (As0)
     if (note == "Bb0"):
         print (Bb0)
+    if (note == "As0"):
+        print (As0)
+    if (note == "A0"):
+        print (A0)
